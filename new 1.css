@@ -45,14 +45,14 @@ height:2200px;
 }
 .block-left1{
 background:  #7bcfcf;
-height:2200px;
+height:1900px;
 width: 700px;
 float: left;
 text-indent:25px;
 }
 .block-left1 p{
 	
-	font-size:107%;
+	font-size:19.3px;
 	padding:5px;
 	font-family:URW Chancery L, cursive;
 }
@@ -73,7 +73,7 @@ padding:5px;}
 }
 .block-right1{
 background:#7bcfcf;
-height:2200px;
+height:1900px;
 width: 700px;
 float:right ; 
 text-indent:25px;
@@ -238,13 +238,13 @@ width: 1400px;
 }
 .block-left2{
 background:  #7bcfcf;
-
+height:2150px;
 width: 700px;
 float: left;
 text-indent:25px;
 }
 .block-left2 p{
-	font-size:120%;
+	font-size:22px;
 	padding:5px;
 	font-family:Trebuchet MS, sans-serif;
 }
@@ -268,13 +268,13 @@ padding:15px;}
 	height: 306px;
 	width: 380px; }
 .block-right2 p{
-	font-size:122.5%;
+	font-size:22px;
 	padding:5px;
 	font-family: FreeMono, monospace;
 }
 .block-right2{
 background:  #7bcfcf;
-
+height:2150px;
 width: 700px;
 float:right ; 
 text-indent:25px;
@@ -296,14 +296,17 @@ width: 1400px;
 height: 2200px;
 	
 }
-
+.header{
+background:  #7bcfcf;
+height: 379px;
+width: 1400px;
+}
 .sb3{
 	background-image:url(logo/fon3.jpg);
 background-attachment: fixed;
 background-size:100%;
 width:1400px;
 margin:  auto;
-opacity:90%;
 
 }
 .content3 p{
@@ -317,7 +320,7 @@ float: left;
 text-indent:25px;
 }
 .block-left3 p{
-	font-size:20px;
+	font-size:25px;
 	padding:5px;
 	font-family: monospace,Impact;
 font-weight: 400;
@@ -343,7 +346,7 @@ padding:5px;
 	width: 400px;
 padding:5px	}
 .block-right3 p{
-	font-size:22px;
+	font-size:26px;
 	padding:5px;
 	font-family: monospace,Impact;
 	color:#fff;
@@ -391,7 +394,7 @@ width: 1400px;
 }
 .block-left4{
 background:  #7bcfcf;
-height:2200px;
+
 width: 700px;
 float: left;
 text-indent:25px;
@@ -402,7 +405,7 @@ text-indent:25px;
 	font-family: Luminari, fantasy;
 }
 .left41 img{
-height: 270px;
+height: 263px;
 	width: 400px; }
 
 .left42 img{
@@ -421,7 +424,7 @@ padding:5px;}
 }
 .block-right4{
 background:  #7bcfcf;
-height:2200px;
+
 width: 700px;
 float:right ; 
 text-indent:25px;
